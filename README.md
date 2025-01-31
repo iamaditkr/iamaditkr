@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aditya Kumar</h1>
 <h3 align="center">A fresher at IIT (ISM) Dhanbad.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamaditkr&label=Profile%20views&color=0e75b6&style=flat" alt="iamaditkr" /> </p>
-
 - 🌱 I’m currently exploring **Web Development and Machine Learning.**
 
 - 📫 How to reach me **aditya22apr@gmail.com**
