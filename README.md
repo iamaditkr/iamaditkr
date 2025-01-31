@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamaditkr&label=Profile%20views&color=0e75b6&style=flat" alt="iamaditkr" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamaditkr" alt="iamaditkr" /></a> </p>
-
 - 🌱 I’m currently exploring **Web Development and Machine Learning.**
 
 - 📫 How to reach me **aditya22apr@gmail.com**
